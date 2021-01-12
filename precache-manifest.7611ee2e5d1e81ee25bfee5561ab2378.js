@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "33ee46b0c1287f28f13c",
+    "revision": "20f77f050521090fb425",
     "url": "./static/css/main.67049f09.chunk.css"
   },
   {
-    "revision": "33ee46b0c1287f28f13c",
-    "url": "./static/js/main.33ee46b0.chunk.js"
+    "revision": "20f77f050521090fb425",
+    "url": "./static/js/main.20f77f05.chunk.js"
   },
   {
     "revision": "c06ae39ddb6e50b92a63",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "./static/media/GraaspLogo.613b5ab7.svg"
   },
   {
-    "revision": "7642bf9727fa7acf313f085941b04466",
+    "revision": "2d722ef77ff78de92f7e6fc0966e7f9c",
     "url": "./index.html"
   }
 ];
